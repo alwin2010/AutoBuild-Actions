@@ -4,7 +4,7 @@
 # AutoBuild Actions
 
 Diy_Core() {
-Author=
+Author=sharingman
 Default_Device=d-team_newifi-d2
 }
 
