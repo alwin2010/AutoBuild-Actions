@@ -5,7 +5,7 @@
 
 Version=V4.3
 DEFAULT_DEVICE=d-team_newifi-d2
-Github=https://github.com/Hyy2001X/AutoBuild-Actions
+Github=https://github.com/alwin2010/AutoBuild-Actions
 
 TIME() {
 	echo -ne "\n[$(date "+%H:%M:%S")] "
