@@ -1,6 +1,6 @@
 #=======================================================
 # Description: Build OpenWrt using GitHub Actions
-# https://github.com/alwin2010/AutoBuild-Actions
+# https://github.com/sharingboy/AutoBuild-Actions
 # Lisence: MIT
 # Author: sharingman
 # Modify: sharingman
